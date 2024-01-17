@@ -1,0 +1,57 @@
+[
+    {    
+        "pokemon": {
+            "id": 374,
+            "nom": "beldum",
+            "tipus": ["acer", "psíquic"],
+            "pes": 95.2,
+            "altura": 0.6,
+            "estadisticas": [4, 4, 1, 3, 4],
+            "moviments": [
+                {
+                "nom": "placaje",
+                "tipo": "normal",
+                "potencia": 40,
+                "contacte": "Si"
+            },
+                {
+                "nom": "cabezazo zen",
+                "tipo": "psíquic",
+                "potencia": 80,
+                "contacte": "si"
+                }
+        ],
+            "fotografia": "beldum",
+            "enllaç_imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/f/f5/latest/20141214182626/Beldum.png",
+            "evolucion": [{"nom": "metang", "nivell_evolucio": 20}, {"nom": "metagross", "nivell_evolucio": 45}]
+            }
+        },
+        {
+
+            "pokemon": {
+                "id": 405,
+                "nom": "luxray",
+                "tipus": ["electric"],
+                "pes": 42,
+                "altura": 1.4,
+                "estadisticas": [3, 5, 4, 4, 3],
+                "moviments": [
+                    {
+                    "nom": "placaje",
+                    "tipo": "normal",
+                    "potencia": 40,
+                    "contacte": "Si"
+                },
+                    {
+                    "nom": "colmillo rayo",
+                    "tipo": "electric",
+                    "potencia": 65,
+                    "contacte": "si"
+                    }
+            ],
+                "fotografia": "luxray",
+                "enllaç_imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/e/ee/latest/20200720153035/Luxray.png?20200720153035",
+                "evolucion": [{"nom": "Shinx", "nivell_evolucio": 15}, {"nom": "Luxio", "nivell_evolucio": 30}]
+                }
+            }
+]
